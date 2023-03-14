@@ -5,6 +5,7 @@ createApp({
     return {
       message: 'Welcome!',
       btnMessage: 'Push to see the image',
+      imgage: 'img/Vue.js-logo-297x300.jpg',
       imgClass: "d-none"
     };
   },
